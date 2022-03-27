@@ -1,6 +1,7 @@
-/old/
-
 /node_modules/
 /public/build/
 
 .DS_Store
+
+# Only for initial development purposes, will be removed later
+/old/
